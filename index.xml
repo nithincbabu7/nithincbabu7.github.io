@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nithin C Babu</title>
+    <link>https://nithincbabu7.github.io/</link>
+    <description>Recent content on Nithin C Babu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nithincbabu7.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our journal paper “Quality Assessment of Low-light Restored Images: A Subjective Study and an Unsupervised Model” was published in IEEE Access</title>
+      <link>https://nithincbabu7.github.io/news/access23/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://nithincbabu7.github.io/news/access23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Our paper on “No Reference Opinion Unaware Quality Assessment of Authentically Distorted Images” got accepted to WACV&#39;23</title>
+      <link>https://nithincbabu7.github.io/news/wacv23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://nithincbabu7.github.io/news/wacv23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Attention and Augmented Recurrent Neural Networks</title>
+      <link>https://nithincbabu7.github.io/distill/example/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nithincbabu7.github.io/distill/example/</guid>
+      <description>This is the ﬁrst paragraph of the article. Test a long — dash — here it is.&#xA;Test for owner’s possessive. Test for &amp;ldquo;quoting a passage.&amp;rdquo; And another sentence. Or two. Some ﬂopping ﬁns; for diving.&#xA;Here’s a test of an inline equation c = a^2 + b^2&#xD;. And then there’s a block equation: c = \pm \sqrt{ \sum\limits_{i=0}^{n}{a^{222} + b^2}}&#xD;We can also cite external publications. .</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae (CV)</title>
+      <link>https://nithincbabu7.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nithincbabu7.github.io/cv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://nithincbabu7.github.io/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nithincbabu7.github.io/miscellaneous/</guid>
+      <description>Peer Reviews 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 : 3 </description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://nithincbabu7.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nithincbabu7.github.io/publications/</guid>
+      <description>Conference Nithin C. Babu, Vignesh Kannan, and Rajiv Soundararajan. &amp;ldquo;No reference opinion unaware quality assessment of authentically distorted images&amp;rdquo;. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pages 2459–2468, January 2023 (paper)&#xD;(project page)&#xD;(video)&#xD;(poster)&#xD;Journal Vignesh Kannan, Sameer Malik, Nithin C. Babu, and Rajiv Soundararajan. &amp;ldquo;Quality assessment of low-light restored images: A subjective study and an unsupervised model&amp;rdquo;. IEEE Access, 11:68216–68230, July 2023 (paper)&#xD;(project page)&#xD;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://nithincbabu7.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nithincbabu7.github.io/research/</guid>
+      <description>My research interests are broadly in the areas of visual information processing, deep learning, and computer vision. My current research focus is on visual quality assessment, which develops methods that predict the perceptual quality of an image or video. These methods can be used further in downstream tasks that optimize visual content delivery without compromising the perceptual quality, for example, image/video compression, streaming, enhancement, retrieval, etc.&#xA;I develop methods to assess visual quality by employing a variety of tools:</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>https://nithincbabu7.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nithincbabu7.github.io/resources/</guid>
+      <description>Coding Pytorch training templates&#xD;: Python code templates for deep learning tasks. Includes configurable modules that can deal with multiple loss functions and models. Python - MATLAB reference&#xD;: Python and Matlab Reference for Linear Algebra and Image Processing </description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>https://nithincbabu7.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nithincbabu7.github.io/teaching/</guid>
+      <description>Teaching Assistance E9 241 - Digital Image Processing&#xD;:&#xA;Offered by Prof. Rajiv Soundararajan in Department of ECE, IISc Bangalore.&#xA;August 2023 - December 2023 term August 2022 - December 2022 term </description>
+    </item>
+  </channel>
+</rss>
