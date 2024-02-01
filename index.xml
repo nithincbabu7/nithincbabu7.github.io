@@ -30,13 +30,6 @@
       <description>This is the ﬁrst paragraph of the article. Test a long — dash — here it is.&#xA;Test for owner’s possessive. Test for &amp;ldquo;quoting a passage.&amp;rdquo; And another sentence. Or two. Some ﬂopping ﬁns; for diving.&#xA;Here’s a test of an inline equation c = a^2 + b^2&#xD;. And then there’s a block equation: c = \pm \sqrt{ \sum\limits_{i=0}^{n}{a^{222} + b^2}}&#xD;We can also cite external publications. .</description>
     </item>
     <item>
-      <title>Curriculum Vitae (CV)</title>
-      <link>https://nithincbabu7.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nithincbabu7.github.io/cv/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Miscellaneous</title>
       <link>https://nithincbabu7.github.io/miscellaneous/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
