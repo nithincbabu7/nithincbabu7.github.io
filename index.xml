@@ -9,14 +9,14 @@
     <lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nithincbabu7.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Our journal paper “Quality Assessment of Low-light Restored Images: A Subjective Study and an Unsupervised Model” was published in IEEE Access</title>
+      <title>Our journal paper “Quality Assessment of Low-light Restored Images: A Subjective Study and an Unsupervised Model” was published in IEEE Access.</title>
       <link>https://nithincbabu7.github.io/news/access23/</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://nithincbabu7.github.io/news/access23/</guid>
       <description></description>
     </item>
     <item>
-      <title>Our paper on “No Reference Opinion Unaware Quality Assessment of Authentically Distorted Images” got accepted to WACV&#39;23</title>
+      <title>Our paper on “No Reference Opinion Unaware Quality Assessment of Authentically Distorted Images” got accepted to WACV&#39;23.</title>
       <link>https://nithincbabu7.github.io/news/wacv23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://nithincbabu7.github.io/news/wacv23/</guid>
@@ -41,7 +41,7 @@
       <link>https://nithincbabu7.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nithincbabu7.github.io/publications/</guid>
-      <description>Conference Nithin C. Babu, Vignesh Kannan, and Rajiv Soundararajan. &amp;ldquo;No reference opinion unaware quality assessment of authentically distorted images&amp;rdquo;. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pages 2459–2468, January 2023 (paper)&#xD;(project page)&#xD;(video)&#xD;(poster)&#xD;Journal Vignesh Kannan, Sameer Malik, Nithin C. Babu, and Rajiv Soundararajan. &amp;ldquo;Quality assessment of low-light restored images: A subjective study and an unsupervised model&amp;rdquo;. IEEE Access, 11:68216–68230, July 2023 (paper)&#xD;(project page)&#xD;</description>
+      <description>Conference Nithin C. Babu, Vignesh Kannan, and Rajiv Soundararajan. &amp;ldquo;No reference opinion unaware quality assessment of authentically distorted images.&amp;rdquo; In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pages 2459–2468, January 2023 (paper)&#xD;(project page)&#xD;(video)&#xD;(poster)&#xD;Journal Vignesh Kannan, Sameer Malik, Nithin C. Babu, and Rajiv Soundararajan. &amp;ldquo;Quality assessment of low-light restored images: A subjective study and an unsupervised model.&amp;rdquo; IEEE Access, 11:68216–68230, July 2023 (paper)&#xD;(project page)&#xD;</description>
     </item>
     <item>
       <title>Research</title>
@@ -55,14 +55,14 @@
       <link>https://nithincbabu7.github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nithincbabu7.github.io/resources/</guid>
-      <description>Coding Pytorch training templates&#xD;: Python code templates for deep learning tasks. Includes configurable modules that can deal with multiple loss functions and models. Python - MATLAB reference&#xD;: Python and Matlab Reference for Linear Algebra and Image Processing </description>
+      <description>Coding Pytorch training templates&#xD;: This repository contains Python code templates for deep learning tasks. Includes configurable modules that can deal with multiple loss functions and models. Python - MATLAB reference&#xD;: Python and Matlab cheat sheet for Linear Algebra and Image Processing </description>
     </item>
     <item>
       <title>Teaching</title>
       <link>https://nithincbabu7.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nithincbabu7.github.io/teaching/</guid>
-      <description>Teaching Assistance E9 241 - Digital Image Processing&#xD;:&#xA;Offered by Prof. Rajiv Soundararajan in Department of ECE, IISc Bangalore.&#xA;August 2023 - December 2023 term August 2022 - December 2022 term </description>
+      <description>Teaching Assistance E9 241 - Digital Image Processing&#xD;:&#xA;Offered by Prof. Rajiv Soundararajan in the Department of ECE, IISc Bangalore.&#xA;August 2023 - December 2023 term August 2022 - December 2022 term </description>
     </item>
   </channel>
 </rss>
