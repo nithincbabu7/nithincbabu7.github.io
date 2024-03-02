@@ -6,8 +6,15 @@
     <description>Recent content in News on Nithin C Babu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nithincbabu7.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our lab&#39;s research featured in Kernel, IISc&#39;s Research Newsletter: Decoding Distortions</title>
+      <link>https://nithincbabu7.github.io/news/kernel_article_24/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://nithincbabu7.github.io/news/kernel_article_24/</guid>
+      <description>Our lab&amp;rsquo;s work in the Department of Electrical and Communication Engineering was recently featured in Kernel, IISc&amp;rsquo;s Research Newsletter! Check out the article titled &amp;ldquo;Decoding Distortions&amp;rdquo; which discusses pioneering technologies for superior visual experiences, including assessing and enhancing image and video quality, as well as novel view synthesis and image reconstruction techniques using innovative algorithms and models.&#xA;Read the full article here: https://kernel.iisc.ac.in/decoding-distortions/&#xD;</description>
+    </item>
     <item>
       <title>Serving as reviewer for CVPR&#39;24.</title>
       <link>https://nithincbabu7.github.io/news/cvpr24_review/</link>
