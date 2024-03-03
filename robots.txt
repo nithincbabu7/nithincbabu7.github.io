@@ -1,1 +1,5 @@
 User-agent: *
+Disallow: /
+
+# Sitemap location
+Sitemap: https://nithincbabu7.github.io/sitemap.xml
