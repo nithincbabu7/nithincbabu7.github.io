@@ -6,8 +6,15 @@
     <description>Recent content in Nithin C Babu - Homepage on Nithin C Babu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nithincbabu7.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our paper on “A Closer Look at Evaluation of Text-to-Video Models Under Camera Motion” got accepted to WACV&#39;27.</title>
+      <link>https://nithincbabu7.github.io/news/wacv27_dynamiceval/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://nithincbabu7.github.io/news/wacv27_dynamiceval/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Presented my Ph.D. thesis colloquium.</title>
       <link>https://nithincbabu7.github.io/news/colloquium/</link>
@@ -153,7 +160,7 @@
       <link>https://nithincbabu7.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nithincbabu7.github.io/publications/</guid>
-      <description>Nithin C Babu, Aniruddha Mahapatra, Harsh Rangwani, Kuldeep Kulkarni, and Rajiv Soundararajan. &amp;ldquo;Efficient Adaptation of AI-generated Video Quality Assessment with Quality Descriptions.&amp;rdquo; Manuscript, 2026&#xA;Anatap Mitra*, Nithin C Babu*, Karimulla Shaik, and Rajiv Soundararajan. &amp;ldquo;Text-guided Q-Former for Data-efficient AI-generated Image Quality Assessment.&amp;rdquo; Manuscript, 2026&#xA;Aakanksha Bharti, Nithin C. Babu, M. Naveen Sai Kiran, Aditi Prasad, Neeraj Badal, and Rajiv Soundararajan. &amp;ldquo;Quality Assessment of Multispectral Remote Sensing Images: A Subjective Study and No Reference Algorithms.</description>
+      <description>Nithin C. Babu, Aniruddha Mahapatra, Harsh Rangwani, Rajiv Soundararajan, and Kuldeep Kulkarni. &amp;ldquo;A Closer Look at Evaluation of Text-to-Video Models Under Camera Motion.&amp;rdquo; Accepted in the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2027 (paper)&#xD;(project page)&#xD;Nithin C Babu, Aniruddha Mahapatra, Harsh Rangwani, Kuldeep Kulkarni, and Rajiv Soundararajan. &amp;ldquo;Efficient Adaptation of AI-generated Video Quality Assessment with Quality Descriptions.&amp;rdquo; Manuscript, 2026&#xA;Anatap Mitra*, Nithin C Babu*, Karimulla Shaik, and Rajiv Soundararajan.</description>
     </item>
     <item>
       <title>Research</title>
